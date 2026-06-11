@@ -34,8 +34,8 @@ A modern, responsive web application built to calculate the exact return on inve
 
 | Category | Technologies / Tools |
 | :--- | :--- |
-| **🛡️ Cybersecurity** | Kali Linux, Wireshark, Nmap, Burp Suite, OWASP ZAP |
-| **💻 Programming Languages** | Java, TypeScript, JavaScript, Python, C++ |
+| **🛡️ Cybersecurity** | Kali Linux, Wireshark, Nmap, Burp Suite |
+| **💻 Programming Languages** | Java, TypeScript, JavaScript, Python, C |
 | **🌐 Web Technologies** | React, Node.js, Tailwind CSS, HTML/CSS |
 | **🗄️ Databases** | SQL, PostgreSQL, pgAdmin |
 | **⚙️ Tools & Infrastructure** | Git, Docker, Linux, GitHub/GitLab, Vite |
